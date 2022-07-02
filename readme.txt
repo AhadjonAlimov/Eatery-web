@@ -9,7 +9,9 @@
 - Login by Google account,
 - Tailwind CSS,
 - Fully responsive,
-- Framer motion animations without affecting loading speed.
+- Framer motion animations without affecting loading speed,
+- Get - Post methods,
+- Only admin can add new product.
 
 ---------------------------------------
 
